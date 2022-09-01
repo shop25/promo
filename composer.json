@@ -1,6 +1,6 @@
 {
     "name": "s25/promo",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "package for connecting promo to the project",
     "type": "library",
     "license": "proprietary",
@@ -10,7 +10,6 @@
             "email": "vidiac@yandex.ru"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": ">=8.0.0",
         "guzzlehttp/guzzle": ">=6.3.0"
