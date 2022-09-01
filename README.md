@@ -4,7 +4,7 @@ Package for connecting promotion to the project.
 ## Install
 
 ```bash
-composer install s25/promo
+composer require s25/promo
 ```
 
 ## Usage
