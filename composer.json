@@ -1,5 +1,5 @@
 {
-    "name": "shop25/promo",
+    "name": "s25/promo",
     "version": "1.0.0",
     "description": "package for connecting promo to the project",
     "type": "library",
