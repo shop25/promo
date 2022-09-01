@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "package for connecting promo to the project",
     "type": "library",
+    "license": "proprietary",
     "authors": [
         {
             "name": "sergey",
@@ -13,11 +14,6 @@
     "require": {
         "php": ">=8.0.0",
         "guzzlehttp/guzzle": ">=6.3.0"
-    },
-    "config": {
-        "platform": {
-            "php": ">=8.0.0"
-        }
     },
     "autoload": {
         "psr-4": {
